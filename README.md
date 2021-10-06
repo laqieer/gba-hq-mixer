@@ -2,6 +2,8 @@
 
 This repository contains my so called "HQ mixer" for GBA games which use the m4a/mp2k sound driver.
 
+This fork set `POKE_CHN_INIT` to `0` by default for non-Pokemon games.
+
 ## Back Story
 
 Most games that use Nintendo's m4a/mp2k sound driver have a common problem of rather noisy sound.
