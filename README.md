@@ -2,7 +2,7 @@
 
 This repository contains my so called "HQ mixer" for GBA games which use the m4a/mp2k sound driver.
 
-This fork set `POKE_CHN_INIT` to `0` by default for non-Pokemon games.
+This fork set `POKE_CHN_INIT` to `0` by default for non-Pokemon games and allocate IWRAM space for mixer automatically.
 
 ## Back Story
 
